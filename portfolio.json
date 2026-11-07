@@ -8,7 +8,7 @@
      "ai": ["Claude Code", "v0", "Perplexity"], "url": "https://gam-test-zhqk.vercel.app", "img": "img/w1.jpg"},
     {"week": 2, "title": "소아 증상 분류기 — 빈 폴더에서", "line": "아이의 증상을 넣으면 진료과 · 응급도 · 이유가 나옵니다. 응급도를 판단할 정보가 부족하면 추가 확인 질문을 보여줍니다. 가상의 문장으로 분류를 연습하는 용도입니다",
      "judgment": "즉시 응급평가가 필요한 아이를 보통·낮음으로 판정해 진료를 늦추는 것을 가장 나쁜 실수로 정했다. 진료과가 애매하면 소아청소년과로 분류하고, 응급도를 판단할 정보가 부족하면 ‘추가 확인 필요’로 표시하도록 했다",
-     "ai": ["Claude Code", "Gemini"], "url": "https://my-classifier-sage.vercel.app/", "img": ""}
+     "ai": ["Claude Code", "Gemini"], "url": "https://my-classifier-sage.vercel.app/", "img": "img/W2.PNG"}
   ],
   "proposal": null
 }
