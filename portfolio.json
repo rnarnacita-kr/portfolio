@@ -11,7 +11,7 @@
      "ai": ["Claude Code", "Gemini"], "url": "https://my-classifier-sage.vercel.app/", "img": "img/W2.PNG"},
     {"week": 3, "title": "엑셀 정리기", "line": "엉망인 엑셀·CSV 파일을 넣으면 증상을 찾고, 내가 정한 규칙대로 정리한 뒤 무엇을 바꿨는지 한 줄씩 남깁니다. 파일은 브라우저를 떠나지 않습니다",
      "judgment": "처리시간 음수를 빈칸으로 넣는다 — 진짜 값을 모르기 때문에 — 놓치는 것: 테스트 접수 45줄은 지우지 못하고 표시만 합니다",
-     "ai": ["Claude Code", "Google Colab"], "url": "https://rnarnacita-kr.github.io/cleaner/", "img": ""}
+     "ai": ["Claude Code", "Google Colab"], "url": "https://rnarnacita-kr.github.io/cleaner/", "img": "img/W3.PNG"}
   ],
   "proposal": null
 }
