@@ -8,7 +8,10 @@
      "ai": ["Claude Code", "v0", "Perplexity"], "url": "https://gam-test-zhqk.vercel.app", "img": "img/w1.jpg"},
     {"week": 2, "title": "소아 증상 분류기 — 빈 폴더에서", "line": "아이의 증상을 넣으면 진료과 · 응급도 · 이유가 나옵니다. 응급도를 판단할 정보가 부족하면 추가 확인 질문을 보여줍니다. 가상의 문장으로 분류를 연습하는 용도입니다",
      "judgment": "즉시 응급평가가 필요한 아이를 보통·낮음으로 판정해 진료를 늦추는 것을 가장 나쁜 실수로 정했다. 진료과가 애매하면 소아청소년과로 분류하고, 응급도를 판단할 정보가 부족하면 ‘추가 확인 필요’로 표시하도록 했다",
-     "ai": ["Claude Code", "Gemini"], "url": "https://my-classifier-sage.vercel.app/", "img": "img/W2.PNG"}
+     "ai": ["Claude Code", "Gemini"], "url": "https://my-classifier-sage.vercel.app/", "img": "img/W2.PNG"},
+    {"week": 3, "title": "엑셀 정리기", "line": "엉망인 엑셀·CSV 파일을 넣으면 증상을 찾고, 내가 정한 규칙대로 정리한 뒤 무엇을 바꿨는지 한 줄씩 남깁니다. 파일은 브라우저를 떠나지 않습니다",
+     "judgment": "처리시간 음수를 빈칸으로 넣는다 — 진짜 값을 모르기 때문에 — 놓치는 것: 테스트 접수 45줄은 지우지 못하고 표시만 합니다",
+     "ai": ["Claude Code", "Google Colab"], "url": "https://rnarnacita-kr.github.io/cleaner/", "img": ""}
   ],
   "proposal": null
 }
